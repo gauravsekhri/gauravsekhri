@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **E2E Research Pvt Ltd.**
 
-- 👨‍💻 All of my projects are available at [http](http)
+- 👨‍💻 All of my projects are available on my [portfolio](https://gaurav-sekhri.netlify.app/)
 
 - 💬 Ask me about **react, nextjs, redux, zustand and nestjs**
 
