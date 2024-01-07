@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sekhri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working in **E2E Research Pvt Ltd.**
+- 🔭 I’m currently working in **India**
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://gaurav-sekhri.netlify.app/)
 
-- 💬 Ask me about **react, nextjs, redux, zustand and nestjs**
+- 💬 Ask me about **react, nextjs, redux, mongodb and nestjs**
 
-- 📫 How to reach me **gauravsekhri69@gmail.com**
+- 📫 Reach me at **gauravsekhri69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
